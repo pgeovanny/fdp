@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gabarite a Lei - Aplicação Fullstack
 
 ## Setup
@@ -28,3 +29,6 @@
 
 - Configure as variáveis de ambiente no seu serviço (Vercel, Render, Railway).
 - Push no GitHub para deploy automático.
+=======
+# vencel
+>>>>>>> ed714b5b67fdf75e83014f7ed20b2e937f2a5c5a
