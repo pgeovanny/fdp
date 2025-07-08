@@ -31,7 +31,6 @@
     "postcss": "^8.0.0",
     "autoprefixer": "^10.0.0",
     "@types/react": "^18.0.0",
-    "@types/node": "^18.0.0",
-    "@types/swr": "^2.0.0"
+    "@types/node": "^18.0.0"
   }
 }
