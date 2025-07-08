@@ -22,7 +22,8 @@
     "react-chartjs-2": "^5.0.0",
     "@react-pdf/renderer": "^3.0.0",
     "formidable": "^2.0.1",
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "swr": "^2.2.0"
   },
   "devDependencies": {
     "prisma": "^4.0.0",
@@ -30,6 +31,7 @@
     "postcss": "^8.0.0",
     "autoprefixer": "^10.0.0",
     "@types/react": "^18.0.0",
-    "@types/node": "^18.0.0"
+    "@types/node": "^18.0.0",
+    "@types/swr": "^2.0.0"
   }
 }
